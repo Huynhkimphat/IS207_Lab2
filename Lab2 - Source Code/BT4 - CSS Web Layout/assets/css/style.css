@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.col {
+    text-align: left;
+    background-color: #ccc;
+    background-clip: content-box;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.col-none {
+    background-color: transparent;
+}
+
+.break {
+    border-right: 1px solid #ccc;
+}
+
+.box {
+    height: 25vh;
+}
